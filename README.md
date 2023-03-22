@@ -1,3 +1,3 @@
 # Hackerrank-solutions
 
-Solutions for Hackerrank challenges
+The challenges are part of Problem solving and Preparation Kits in Swift
